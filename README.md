@@ -2,4 +2,4 @@
 
 An Arduino MKR w/ ESP-12F WiFi vaporware!
 
-![main board](mkr12.brd.png)
+![main board](hardware/Doc/mk12_io_Arducam.png)
